@@ -1,0 +1,17 @@
+[package]
+name = "touying-bjtu"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Heziah <hyskr0620@gmail.com>"]
+license = "MIT"
+description = "Touying Slide Theme for Beijing Jiaotong University"
+homepage = "https://github.com/Heziah/touying-bjtu"
+repository = "https://github.com/Heziah/touying-bjtu"
+keywords = ["touying", "slide", "theme", "bjtu", "jiaotong"]
+categories = ["presentation"]
+exclude = [".github/", "examples/"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.webp"
