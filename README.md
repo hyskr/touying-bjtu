@@ -4,12 +4,7 @@
 
 ## 作为 Typst 模板包使用
 
-使用 `typst init @preview/touying-bjtu` 创建一个带有此主题的新项目。
-
 ```console
-$ typst init @preview/touying-bjtu
-Successfully created new project from @preview/touying-bjtu:<latest>
-To start writing, run:
 > cd touying-bjtu
 > typst watch main.typ
 ```
